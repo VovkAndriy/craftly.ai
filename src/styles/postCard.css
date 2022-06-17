@@ -1,0 +1,10 @@
+.postCard {
+  border-radius: 10;
+  height: 260;
+}
+.ant-card-body {
+  padding: 5% 0 !important;
+}
+.tag {
+  border-radius: 5;
+}

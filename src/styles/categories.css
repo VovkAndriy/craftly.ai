@@ -1,0 +1,21 @@
+.layout {
+  box-shadow: 0px 23.4967px 36.7135px -23.4967px rgba(95, 103, 117, 0.25);
+}
+.layout_header {
+  padding: 20px;
+}
+.list {
+  margin: 0 !important;
+  padding: 1% 5%;
+}
+.card {
+  width: 15% !important;
+  text-align: start;
+  border-radius: 15px !important;
+  margin-left: 1.5%;
+  border: 1px solid gray !important;
+}
+.card:active,
+.card:hover {
+  background: linear-gradient(285.83deg, #8878f9 -34.95%, #6c5afb 92.08%);
+}

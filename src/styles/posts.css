@@ -1,0 +1,8 @@
+.fulfilled {
+  margin: 0 !important;
+  padding: 1% 5% !important;
+}
+.empty {
+  width: 100%;
+  padding: 5%;
+}
